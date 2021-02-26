@@ -6,6 +6,9 @@
 
 [Глава №1. Основы C++. часть №2](https://drive.google.com/drive/folders/1fXnj1Y5SFlGWLntIE1J1n9CxaEfAoDRt?usp=sharing)
 
+[Глава №2. Переменные и основные типы данных в C++](https://drive.google.com/drive/folders/1H2bi6jBYB0l9SboeHFAvLMLuulBqJsar?usp=sharing)
+
+
 | Вариант  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 | -------  | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | Урок 1   |  7 |  7 |  6 |  6 | 4  |  5 | 7  | 6  |  5 | 5  |    |  4 |    | 4  |  5 |  4 |  6 |  5 |  4 |    |
