@@ -8,6 +8,7 @@
 
 [Глава №2. Переменные и основные типы данных в C++](https://drive.google.com/drive/folders/1H2bi6jBYB0l9SboeHFAvLMLuulBqJsar?usp=sharing)
 
+[Глава №3. Операторы в C++](https://drive.google.com/drive/folders/16XzNa9f414aQFBlKuvIkwz7AKf2PCaL8?usp=sharing)
 
 | Вариант  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 | -------  | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
