@@ -13,6 +13,7 @@
 [Глава №4. Область видимости и другие типы переменных в C++. Часть №1](https://drive.google.com/drive/folders/18j9-sDrLqS7UFw7azZ-Sh42akJAXK9d5?usp=sharing)
 
 [Глава №4. Область видимости и другие типы переменных в C++. Часть №2](https://drive.google.com/drive/folders/1IMZf9ja42b_KkapW57ksI2JSQn3f5nlN?usp=sharing)
+[Глава №5. Порядок выполнения кода в программе. Циклы, ветвления в C++](https://drive.google.com/drive/folders/1SbvmBR0XuBYwH-gmKq9ZH353-UzmHxMS?usp=sharing)
 
 | Вариант  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 | -------  | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
